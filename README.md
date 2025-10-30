@@ -1,16 +1,13 @@
-## Hi there 👋
+[![aomman's 42 stats](https://badge.mediaplus.ma/colorfulwaves/aomman)](https://github.com/oakoudad/badge42)
 
-<!--
-**abdelilahommane/abdelilahommane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack:
+- [![My Skills](https://skillicons.dev/icons?i=nestjs,typescript,django,flask,python,javascript,java,nodejs,react,php)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+- [![My Skills](https://skillicons.dev/icons?i=expressjs,docker,linux,vim,vscode,c,cpp,kubernetes,nginx,laravel)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+State:
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobo-9-0045&show_icons=true&theme=merko)
+
+  
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobo-9-0045&layout=compact )
