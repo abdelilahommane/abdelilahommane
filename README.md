@@ -1,5 +1,3 @@
-[![aomman's 42 stats](https://badge.mediaplus.ma/colorfulwaves/aomman)](https://github.com/oakoudad/badge42)
-
 Tech Stack:
 - [![My Skills](https://skillicons.dev/icons?i=nestjs,typescript,django,flask,python,javascript,java,nodejs,react,php)](https://skillicons.dev)
 
