@@ -1,11 +1,1 @@
-Tech Stack:
-- [![My Skills](https://skillicons.dev/icons?i=nestjs,typescript,django,flask,python,javascript,java,nodejs,react,php)](https://skillicons.dev)
-
-- [![My Skills](https://skillicons.dev/icons?i=expressjs,docker,linux,vim,vscode,c,cpp,kubernetes,nginx,laravel)](https://skillicons.dev)
-
-
-State:
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobo-9-0045&show_icons=true&theme=merko)
-
-  
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobo-9-0045&layout=compact )
+Abdelilah Ommane
